@@ -1,0 +1,24 @@
+{
+  "name": "isaiah-santillan-linked-lists",
+  "version": "1.0.0",
+  "description": "linked lists odin project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agile-learning-institute/isaiah-santillan-linked-lists.git"
+  },
+  "author": "Isaiah Santillan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agile-learning-institute/isaiah-santillan-linked-lists/issues"
+  },
+  "homepage": "https://github.com/agile-learning-institute/isaiah-santillan-linked-lists#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "webpack": "^5.99.9"
+  }
+}
